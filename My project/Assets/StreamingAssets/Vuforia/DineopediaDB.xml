@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker3_scaled_scaled" size="6.000000 3.774000" />
+    <ImageTarget name="marker2_scaled_scaled" size="6.000000 3.369141" />
+    <ImageTarget name="marker1_scaled_scaled" size="6.000000 3.973770" />
+    <ImageTarget name="marker3_scaled" size="6.000000 3.774000" />
+    <ImageTarget name="marker2_scaled" size="6.000000 3.369141" />
+    <ImageTarget name="marker1_scaled" size="6.000000 3.973770" />
+  </Tracking>
+</QCARConfig>
