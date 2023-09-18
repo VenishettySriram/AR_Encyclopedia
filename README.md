@@ -1,5 +1,3 @@
-Here is an example README.md file that could be used for the AR Encyclopaedia project on GitHub:
-
 # AR Encyclopaedia for Dinosaurs
 
 An augmented reality encyclopaedia that brings dinosaurs to life through interactive 3D models.
