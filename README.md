@@ -9,9 +9,6 @@ The AR Encyclopaedia uses augmented reality technology to create an immersive le
 Key features:
 
 - Animations and sounds for each dinosaur
-- Detailed fact sheets on dinosaur traits, history and habits
-- Interactive quizzes to expand knowledge
-- Multi-language support
 - Cross-platform AR - works on phones, tablets and devices 
 
 ## Getting Started
